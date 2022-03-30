@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
+body {
+  font-family: "Muli", sans-serif;
+}
 nav {
   position: fixed;
   align-self: center;
@@ -6,7 +12,7 @@ nav {
 }
 nav a {
   text-decoration: none;
-  align-items: center;
+  margin-right: 20px;
 }
 #header-img {
   margin-top: 50px;
