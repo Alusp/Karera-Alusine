@@ -6,16 +6,19 @@ body {
 }
 nav {
   position: fixed;
-  align-self: center;
   font-size: 40px;
-  margin-left: 5rem;
+  padding-left: 5rem;
+  width: 100%;
+  background-color: rgb(141, 121, 252);
+  margin-top: 0;
 }
 nav a {
   text-decoration: none;
   margin-right: 20px;
+  color: white;
 }
 #header-img {
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -29,6 +32,7 @@ nav a {
 }
 h1 {
   text-align: center;
+  color: rgb(23, 0, 153);
 }
 section {
   align-items: center;
