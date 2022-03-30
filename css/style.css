@@ -27,3 +27,9 @@ nav a {
   display: inline-flex;
   margin: 5px;
 }
+h1 {
+  text-align: center;
+}
+section {
+  align-items: center;
+}
