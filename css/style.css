@@ -1,5 +1,15 @@
 nav {
   position: fixed;
+  align-self: center;
+  font-size: 40px;
+  margin-left: 5rem;
+}
+nav a {
+  text-decoration: none;
+  align-items: center;
+}
+#header-img {
+  margin-top: 50px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -9,4 +19,5 @@ nav {
 }
 .flexBox {
   display: inline-flex;
+  margin: 5px;
 }
